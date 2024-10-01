@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "324833723114",
+    "firebase_url": "https://steinlie-realtime-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "steinlie-realtime",
+    "storage_bucket": "steinlie-realtime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324833723114:android:402ad0d1cdfd5f4f0c0d93",
+        "android_client_info": {
+          "package_name": "com.frankie.gizichecker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324833723114-jktt03m16or42tccsnp81emnbmdhtpb0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frankie.gizichecker",
+            "certificate_hash": "0699809a6de7c869351eb4a52d7dfaf9c7046eda"
+          }
+        },
+        {
+          "client_id": "324833723114-3r1d93ntnbqt7ibl18mjfds547fug7ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPW6rFY8kpZPiy9TTgcYxOJbk-JbrDhL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324833723114-3r1d93ntnbqt7ibl18mjfds547fug7ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324833723114:android:6a9aacad8f23a7540c0d93",
+        "android_client_info": {
+          "package_name": "com.frankie.juling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324833723114-3r1d93ntnbqt7ibl18mjfds547fug7ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPW6rFY8kpZPiy9TTgcYxOJbk-JbrDhL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324833723114-3r1d93ntnbqt7ibl18mjfds547fug7ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324833723114:android:b19a83d228ca6ad50c0d93",
+        "android_client_info": {
+          "package_name": "com.frankie.ngronggomart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324833723114-3r1d93ntnbqt7ibl18mjfds547fug7ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPW6rFY8kpZPiy9TTgcYxOJbk-JbrDhL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324833723114-3r1d93ntnbqt7ibl18mjfds547fug7ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
