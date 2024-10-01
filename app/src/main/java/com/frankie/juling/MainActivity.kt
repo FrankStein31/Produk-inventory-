@@ -73,40 +73,6 @@ class MainActivity : AppCompatActivity() {
         })
     }
 
-//    private fun showAddProductDialog() {
-//        val builder = AlertDialog.Builder(this)
-//        builder.setTitle("Tambah Produk Baru")
-//
-//        val input = layoutInflater.inflate(R.layout.dialog_add_product, null)
-//        builder.setView(input)
-//
-//        val uploadImageButton = input.findViewById<FloatingActionButton>(R.id.uploadImageButton)
-//        val productImageView = input.findViewById<ImageView>(R.id.productImageView)
-//
-//        uploadImageButton.setOnClickListener {
-//            openImageChooser()
-//        }
-//
-//        // Update the ImageView if an image was selected
-//        selectedImageUri?.let {
-//            productImageView.setImageURI(it)
-//        }
-//
-//        builder.setPositiveButton("Add") { _, _ ->
-//            val name = input.findViewById<EditText>(R.id.productName).text.toString()
-//            val price = input.findViewById<EditText>(R.id.productPrice).text.toString().toDoubleOrNull() ?: 0.0
-//            val description = input.findViewById<EditText>(R.id.productDescription).text.toString()
-//
-//            generateProductCode { code ->
-//                val newProduct = Product(UUID.randomUUID().toString(), code, name, price, description)
-//                addProduct(newProduct)
-//            }
-//        }
-//
-//        builder.setNegativeButton("Cancel") { dialog, _ -> dialog.cancel() }
-//        builder.show()
-//    }
-
     private fun showAddProductDialog() {
         val builder = AlertDialog.Builder(this)
         builder.setTitle("Tambah Produk Baru")
